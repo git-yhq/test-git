@@ -9,6 +9,7 @@ class TestGitApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("1.0");
+        System.out.println("window1--2.0");
     }
 
 }
